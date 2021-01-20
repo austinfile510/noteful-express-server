@@ -316,15 +316,15 @@ describe('Notes Endpoints', function () {
 				.set('Authorization', `Bearer ${process.env.API_TOKEN}`)
 				.expect(201)
 				.expect((res) => {
-					expect(res.body[0].title).to.eql(expectedNote.title);
-					expect(res.body[0].content).to.eql(expectedNote.content);
+					expect(res.body.title).to.eql(expectedNote.title);
+					expect(res.body.content).to.eql(expectedNote.content);
 				});
 		});
 	});
 
 	// Update Note
 
-	describe.only(`PATCH /api/notes`, () => {
+	describe(`PATCH /api/notes`, () => {
 		context(`Given no notes`, () => {
 			it(`responds with 404 when note doesn't exist`, () => {
 				return supertest(app)
@@ -340,7 +340,7 @@ describe('Notes Endpoints', function () {
 			const testFolders = makeFoldersArray();
 			const testNotes = makeNotesArray();
 
-			beforeEach('insert notes', () => {
+			beforeEach('insert folders', () => {
 				return db
 					.into('folders')
 					.insert(testFolders)
@@ -368,6 +368,7 @@ describe('Notes Endpoints', function () {
 					.then((res) => {
 						return supertest(app)
 							.get(`/api/notes/${idToUpdate}`)
+							.set('Authorization', `Bearer ${process.env.API_TOKEN}`)
 							.expect(expectedNote);
 					});
 			});
@@ -380,7 +381,7 @@ describe('Notes Endpoints', function () {
 					.send({ irrelevantField: 'foo' })
 					.expect(400, {
 						error: {
-							message: `Request body must content either 'title', 'content', or 'folder_id'`,
+							message: `Request body must content either 'title', 'content' or 'folder_id'`,
 						},
 					});
 			});
@@ -397,13 +398,17 @@ describe('Notes Endpoints', function () {
 
 				return supertest(app)
 					.patch(`/api/notes/${idToUpdate}`)
+					.set('Authorization', `Bearer ${process.env.API_TOKEN}`)
 					.send({
 						...updateNote,
 						fieldToIgnore: 'should not be in GET response',
 					})
 					.expect(204)
 					.then((res) =>
-						supertest(app).get(`/api/notes/${idToUpdate}`).expect(expectedNote)
+						supertest(app)
+							.get(`/api/notes/${idToUpdate}`)
+							.set('Authorization', `Bearer ${process.env.API_TOKEN}`)
+							.expect(expectedNote)
 					);
 			});
 		});

@@ -5,7 +5,7 @@ const logger = require('../logger');
 const NotesService = require('./notes-service');
 
 const notesRouter = express.Router();
-const jsonParser = express.json;
+const jsonParser = express.json();
 
 const serializeNote = (note) => ({
 	id: note.id,
@@ -40,7 +40,10 @@ notesRouter
 			}
 		}
 
-		newNote.modified = modified;
+		newNote.title = title;
+		newNote.content = content;
+		newNote.folder_id = folder_id;
+		// newNote.modified = modified;
 		const knexInstance = req.app.get('db');
 
 		NotesService.insertNote(knexInstance, newNote)
