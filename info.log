@@ -1,0 +1,337 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /api/articles","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: //notes","level":"error"}
+{"message":"Unauthorized request to path: //folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/folders","level":"error"}
+{"message":"Unauthorized request to path: //folders","level":"error"}
+{"message":"Unauthorized request to path: //notes","level":"error"}
+{"message":"Undefined binding(s) detected when compiling FIRST. Undefined column(s): [id] query: select * from \"notes\" where \"id\" = ? limit ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling FIRST. Undefined column(s): [id] query: select * from \"notes\" where \"id\" = ? limit ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling FIRST. Undefined column(s): [id] query: select * from \"notes\" where \"id\" = ? limit ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling FIRST. Undefined column(s): [id] query: select * from \"notes\" where \"id\" = ? limit ?","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Note with id 2 deleted.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Note with id 2 deleted.","level":"info"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"Note with id 1 deleted.","level":"info"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"Unexpected token f in JSON at position 6","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 4 created.","level":"info"}
+{"message":"Folder with id 5 created.","level":"info"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Cannot read property 'from' of undefined","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"folder_name is required","level":"error"}
+{"message":"insert into \"folders\" (\"folder_name\") values ($1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Note with id 2 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Folder with id 1 deleted.","level":"info"}
+{"message":"Folder with id 6 created.","level":"info"}
+{"message":"Note with id 3 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Note with id 2 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Note with id 2 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/2","level":"error"}
+{"message":"Folder with id 2 deleted.","level":"info"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"folder_name is required","level":"error"}
+{"message":"Folder with id 1 created.","level":"info"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Note with id 2 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
